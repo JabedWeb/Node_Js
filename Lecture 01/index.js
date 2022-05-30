@@ -4,7 +4,7 @@ let text=fs.readFileSync('./data.json')
 let data=JSON.parse(text);
 let data1=JSON.stringify(data)
 console.log(data);
-console.log(data1);jabed@880
+console.log(data1);
 
 http.createServer((req,res)=>{
 
