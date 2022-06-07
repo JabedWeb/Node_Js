@@ -1,0 +1,22 @@
+{
+    "dev" :[
+        {
+            "id" : 1,
+            "name" : "Jabed"
+        },
+        {
+            "id" : 2,
+            "name" : "Jabed"
+        }
+    ],
+    "Product" :[
+        {
+            "id" : 1,
+            "name" : "I_Phone"
+        },
+        {
+            "id" : 2,
+            "name" : "Samsung"
+        }
+    ]
+}

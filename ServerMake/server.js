@@ -14,6 +14,7 @@ console.log(students_obj);
 //Create Server
 http.createServer((req,res)=>{
     res.writeHead(200,{'Content-Type' : 'application/json'});
+    res.write(students_obj);
     res.end(students_obj);
 }).listen(PORT,()=>{
     console.log(`server is running on ${PORT}`);
