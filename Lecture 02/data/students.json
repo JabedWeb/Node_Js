@@ -1,8 +1,1 @@
- {
-     "dev" : [
-         {
-             "id" : 1,
-             "name" : "Jabed"
-         }
-     ]
- }
+[{"id":1,"name":"Jabed","skill":"Developer"},{"id":2,"name":"Jabed","skill":"Developer"},{"id":3,"name":"abul","skill":"HP"},{"id":4,"name":"abul","skill":"HP"},{"id":5,"name":"abul","skill":"HP"},{"id":6,"name":"abul","skill":"HP"},{"id":7,"name":"abul","skill":"HP"}]
